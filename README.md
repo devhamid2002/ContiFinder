@@ -15,7 +15,7 @@ To set up and run the project locally, follow these steps:
 
     ```bash
     git clone https://github.com/devhamid2002/ContiFinder.git
-    cd promptlab
+    cd ContiFinder
     ```
 
 2. **Run the project with Docker Compose:**
